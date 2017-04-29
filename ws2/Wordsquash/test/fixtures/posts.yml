@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  concents: MyText
+  user: MyString
+  published: 2015-09-02 18:51:30
+
+two:
+  concents: MyText
+  user: MyString
+  published: 2015-09-02 18:51:30
