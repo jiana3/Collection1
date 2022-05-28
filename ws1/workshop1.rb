@@ -1,4 +1,4 @@
-#Ai Jian 700476
+#700476
 #core 1
 class Creature
 	def initialised
